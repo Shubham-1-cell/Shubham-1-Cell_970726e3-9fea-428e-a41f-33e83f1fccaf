@@ -1,6 +1,5 @@
 # React - weather-app
 
-https://rawfour.github.io/weather-app-react/
 
 ## Table of contents
 * [Instructions](#Instructions)
@@ -10,10 +9,7 @@ https://rawfour.github.io/weather-app-react/
 
 ## Instructions
 
-First clone this repository.
-```bash
-$ git clone https://github.com/rawfour/weather-app-react.git
-```
+
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 ```bash
